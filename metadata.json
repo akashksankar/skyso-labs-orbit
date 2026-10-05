@@ -1,0 +1,6 @@
+{
+  "name": "ORBIT — Orbital Intelligence & Space Visualization",
+  "description": "Local-first orbital intelligence, research, and tracking platform by Skyso Labs combining terminal-native CLI with real-time 3D Earth space visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
